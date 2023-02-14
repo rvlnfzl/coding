@@ -1,0 +1,38 @@
+.container {
+  margin-left: 10px;
+}
+
+table {
+  background-color: white;
+  margin-top: 20px;
+}
+tr {
+  background-color: white;
+}
+
+th {
+  background-color: gray;
+}
+
+.navbar {
+  background-color: lightgray;
+}
+
+.w3-sidebar {
+  background-color: rgb(24, 22, 31);
+  color: aliceblue;
+}
+
+.main {
+  background: rgb(17, 17, 22);
+}
+
+.buku table {
+  background-color: rgb(0, 0, 0);
+}
+
+span {
+  margin-left: 10px;
+}
+
+
